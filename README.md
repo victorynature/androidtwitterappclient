@@ -12,12 +12,12 @@ Apache Version 2.0
 This project uses the Twitter API and RestClientTemplate.
 
 It also uses many other open source libraries such as:
-CodePath Rest-Client-Template
-scribe-java
-Android Async HTTP
-codepath-oauth
-UniversalImageLoader
-pull-to-refresh 
+* CodePath Rest-Client-Template
+* scribe-java
+* Android Async HTTP
+* codepath-oauth
+* UniversalImageLoader
+* pull-to-refresh 
 
 
 ## User Stories:
