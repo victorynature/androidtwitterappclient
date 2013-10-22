@@ -28,7 +28,7 @@ pull-to-refresh
 3.	User can compose a new tweet
     - User can click a “Compose” icon in the Action Bar on the top right
     - User will have a Compose view opened
-    - - User can enter a message and hit a button to Post
+    - User can enter a message and hit a button to Post
     - User should be taken back to home timeline with new tweet visible
 4.	User can load more tweets once they reach the bottom of the list
     - Using "Load More" Button or "Lazy Endless" Scrolling
