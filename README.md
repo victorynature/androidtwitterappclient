@@ -2,12 +2,12 @@ androidtwitterappclient
 =======================
 Build a simple Twitter client that supports viewing a Twitter timeline and composing a new tweet.
 
-License
+## License
 
 Apache Version 2.0
 
 
-Acknowledgements
+## Acknowledgements
 
 This project uses the Twitter API and RestClientTemplate.
 
@@ -20,7 +20,7 @@ UniversalImageLoader
 pull-to-refresh 
 
 
-User Stories:
+## User Stories:
 
 1.	User can sign in using OAuth login flow
 2.	User can view last 25 tweets from their home timeline
